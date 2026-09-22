@@ -56,11 +56,12 @@ Actualmente estoy enfocado en el desarrollo de aplicaciones web y mobile, trabaj
 ### Métricas de GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luishjimenez98&theme=flat&no-frame=true&no-bg=true&margin-w=15" alt="Logros de GitHub" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=luishjimenez98&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luishjimenez98&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
 </p>
 ---
 
 ### Contacto
 
-* **GitHub:** [LuisJimenez98](https://github.com/luishjimenez98)
+* **GitHub:** [luishjimenez98](https://github.com/luishjimenez98)
 * **LinkedIn:** [linkedin.com/in/luis-h-jimenez-del](https://www.linkedin.com/in/luis-h-jimenez-del)
