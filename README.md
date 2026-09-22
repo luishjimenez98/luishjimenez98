@@ -56,11 +56,11 @@ Actualmente estoy enfocado en el desarrollo de aplicaciones web y mobile, trabaj
 ### Métricas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luishjimenez98&theme=github-dark&hide_border=true" alt="Gráfico de actividad de GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=luishjimenez98&theme=flat&no-frame=true&no-bg=true&margin-w=15" alt="Logros de GitHub" />
 </p>
 ---
 
 ### Contacto
 
-* **GitHub:** [LuisJimenez98](https://github.com/LuisJimenez98)
+* **GitHub:** [LuisJimenez98](https://github.com/luishjimenez98)
 * **LinkedIn:** [linkedin.com/in/luis-h-jimenez-del](https://www.linkedin.com/in/luis-h-jimenez-del)
