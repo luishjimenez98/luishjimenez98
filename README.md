@@ -56,13 +56,13 @@ Actualmente estoy enfocado en el desarrollo de aplicaciones web y mobile, trabaj
 ### Métricas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisJimenez66&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisJimenez66&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisJimenez98&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisJimenez98&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" width="48%" />
 </p>
 
 ---
 
 ### Contacto
 
-* **GitHub:** [LuisJimenez66](https://github.com/LuisJimenez66)
+* **GitHub:** [LuisJimenez98](https://github.com/LuisJimenez98)
 * **LinkedIn:** [linkedin.com/in/luis-h-jimenez-del](https://www.linkedin.com/in/luis-h-jimenez-del)
