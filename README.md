@@ -67,5 +67,5 @@ Actualmente estoy enfocado en el desarrollo de aplicaciones web y mobile, trabaj
 
 ### Contacto
 
-* **Email:** [luishjimenez98](luishjimenez98@gmail.com)
+* **Email:** luishjimenez98@gmail.com
 * **LinkedIn:** [linkedin.com/in/luis-h-jimenez-del](https://www.linkedin.com/in/luis-h-jimenez-del)
