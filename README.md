@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Luis Héctor Jiménez Delgado</h1>
+<h1 align="center">Luis Héctor Jiménez Delgado</h1>
 
 <p align="center">
   <b>Desarrollador de Software</b>
@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Angular-111111?style=flat-square&logo=angular&logoColor=DD0031" />
 </p>
 
 ---
